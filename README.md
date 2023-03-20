@@ -43,10 +43,3 @@ Masukkan angka kedua: 18
 Hasil penjumlahan 12 + 18 = 30
 Apakah anda ingin melakukan perhitungan lagi? [Y/N] :
 ```
-
-
-
-
-
-
-![](model-menu.gif)
